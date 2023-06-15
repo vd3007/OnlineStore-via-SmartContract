@@ -15,6 +15,8 @@ We've using the upper example to re-create the smart contract. <br>
    ```
    contract_abi = [ <your contract ABI> ] 
    ```
+## User Interface 
+![UI](https://raw.githubusercontent.com/vd3007/OnlineStore-via-SmartContract/main/UI.png "UI")
 ## Improvement
 We consider some improvements that can enhance the project! <br>
 * The buyer input private key for the purchase <br>
