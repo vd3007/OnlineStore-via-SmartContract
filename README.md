@@ -2,9 +2,9 @@
 ### References: [jspruance/block-explorer-tutorials](https://github.com/jspruance/block-explorer-tutorials/tree/main)
 ## Introduction
 This is a small project through smart contract & python.  
-We've using the upper example to re-create the smart contract. Meanwhile thanks to **[jspruance]**(https://github.com/jspruance) for providing an example.  
+We've using the upper example to re-create the smart contract. Meanwhile thanks to **[jspruance](https://github.com/jspruance)** for providing an example.  
 Returning to the point, it allow us using python UI to connect to the smart contract.  
-But before that, you need to deploy the smart contract on the **[RemixIDE]**(https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.11+commit.d7f03943.js).  
+But before that, you need to deploy the smart contract on the **[RemixIDE](https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.11+commit.d7f03943.js)**.  
 In this case, we've using **MetaMask** to get our account address and private-key to execute the functions.  
 ## Cautions 
 **Important!** Some of the codes in ***Final_Project.py*** needs to be replaced! <br>
