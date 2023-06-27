@@ -6,6 +6,7 @@ We've using the upper example to re-create the smart contract. Meanwhile thanks 
 Returning to the point, it allow us using python UI to connect to the smart contract.  
 But before that, you need to deploy the smart contract on the **[RemixIDE](https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.11+commit.d7f03943.js)**.  
 In this case, we've using **MetaMask** to get our account address and private-key to execute the functions.  
+Meanwhile, We've using **[PNG MART](https://www.pngmart.com/)** to collect the photo we display on the UI.  
 ## Cautions 
 **Important!** Some of the codes in ***Final_Project.py*** needs to be replaced! <br>
 1. Ether node connecting: <br>
